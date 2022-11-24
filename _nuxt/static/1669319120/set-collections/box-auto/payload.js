@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/set-collections/box-auto", {data:[{}],fetch:{},mutations:void 0});

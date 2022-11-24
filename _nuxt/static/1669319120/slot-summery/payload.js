@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/slot-summery", {data:[{}],fetch:{},mutations:void 0});
